@@ -7,7 +7,7 @@
     "start": "nodemon server.js --exec babel-node --",
     "test": "mocha",
     "jam": "node test.js",
-    "build": "node.js",
+    "build": "node",
     "dev-start": "babel-watch server.js"
   },
   "keywords": [],
