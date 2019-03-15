@@ -16,7 +16,7 @@
   "dependencies": {
     "pug": "*",
     "promise.prototype.finally": "*",
-    "express": "^4.16.4",
+    "express": "^4.16.4"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
