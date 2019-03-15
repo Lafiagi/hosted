@@ -2,9 +2,12 @@
   "name": "parcel",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "8.11.4"
+  },
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js --exec babel-node --",
+    "start": "node server.js",
     "test": "mocha",
     "jam": "node test.js",
     "build": "server.js",
