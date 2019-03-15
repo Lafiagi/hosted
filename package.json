@@ -9,8 +9,6 @@
   "scripts": {
     "start": "node server.js",
     "test": "mocha",
-    "jam": "node test.js",
-    "build": "server.js",
     "dev-start": "babel-watch server.js"
   },
   "keywords": [],
